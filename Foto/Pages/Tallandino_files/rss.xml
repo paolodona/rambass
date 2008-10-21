@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>RAMBA s.s. - foto</title>
+    <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html</link>
+    <description>Enim ridiculus aliquet penatibus amet, tellus at morbi, mi hac, mus sit mauris facere. Sit nam duis montes, arcu pede elit molestie, amet quisque sed egestas urna non, vestibulum nibh suspendisse.</description>
+    <item>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html#0</link>
+      <guid isPermaLink="false">78163df4-abce-4489-94b8-b23519a39f33</guid>
+      <enclosure url="http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img103/img103.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img103/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img103/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img103/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html#1</link>
+      <guid isPermaLink="false">7effeab8-2c4b-4585-bf36-2980622de7f5</guid>
+      <enclosure url="http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img104/img104.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img104/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img104/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img104/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html#2</link>
+      <guid isPermaLink="false">d47ca444-91dd-47a4-bc7c-74a1396abcc5</guid>
+      <enclosure url="http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img105/img105.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img105/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img105/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img105/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html#3</link>
+      <guid isPermaLink="false">14bca572-b18d-432f-b2ea-f8f4b66c558f</guid>
+      <enclosure url="http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img106/img106.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img106/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img106/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img106/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html#4</link>
+      <guid isPermaLink="false">eef994ee-770f-4c00-80f3-f51c918f4202</guid>
+      <enclosure url="http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img107/img107.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img107/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img107/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.rambass.com/rambass/Foto/Pages/Tallandino_files/Media/img107/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>

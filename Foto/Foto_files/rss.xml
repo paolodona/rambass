@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>RAMBA S.s. - FOTO</title>
+    <link>http://www.rambass.com/rambass/Foto/Foto.html</link>
+    <description>RAMBA S.s. - FOTO</description>
+    <item>
+      <title>Skiantos</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Skiantos.html</link>
+      <guid isPermaLink="false">cd1e32a1-f5e5-40aa-b0b4-6338b67506b3</guid>
+    </item>
+    <item>
+      <title>Servizio indoor</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Servizio_indoor.html</link>
+      <guid isPermaLink="false">2578b022-8e79-41ab-b43e-5e5e52eeaa62</guid>
+    </item>
+    <item>
+      <title>Servizio Outdoor</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Servizio_Outdoor.html</link>
+      <guid isPermaLink="false">8dd1c392-6afc-458c-8531-3d6932b2ab34</guid>
+    </item>
+    <item>
+      <title>Ai Trenti</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Ai_Trenti.html</link>
+      <guid isPermaLink="false">839df68f-c7a6-4eb3-935e-90a5a78f9f77</guid>
+    </item>
+    <item>
+      <title>Capodanno Pieve</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Capodanno_Pieve.html</link>
+      <guid isPermaLink="false">49b2fab9-c864-4b54-99c3-1283f2d99457</guid>
+    </item>
+    <item>
+      <title>Consulta Limana</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Consulta_Limana.html</link>
+      <guid isPermaLink="false">b7441184-4386-4534-b437-3628218688b1</guid>
+    </item>
+    <item>
+      <title>SottoSopra</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/SottoSopra.html</link>
+      <guid isPermaLink="false">c54e4709-4209-4bfc-94ee-aa0c8f89500e</guid>
+    </item>
+    <item>
+      <title>Tallandino</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Tallandino.html</link>
+      <guid isPermaLink="false">0d82c4fa-74ac-4e88-81c2-33fcd8c37d45</guid>
+    </item>
+    <item>
+      <title>Caorera</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Caorera.html</link>
+      <guid isPermaLink="false">48bf07eb-62e4-4242-920e-b39661f51984</guid>
+    </item>
+    <item>
+      <title>Sappada</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Sappada.html</link>
+      <guid isPermaLink="false">4f75fdbe-38ab-43dc-8c46-686302b9f6aa</guid>
+    </item>
+    <item>
+      <title>Al Curvone</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Al_Curvone.html</link>
+      <guid isPermaLink="false">681d8b7f-1995-4f1f-a0c0-72f37b70fe87</guid>
+    </item>
+    <item>
+      <title>Primo Servizio</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Primo_Servizio.html</link>
+      <guid isPermaLink="false">1c81ff0c-3976-4c41-aacd-6bdcbcf9ca47</guid>
+    </item>
+    <item>
+      <title>Bowling Trichiana</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Bowling_Trichiana.html</link>
+      <guid isPermaLink="false">03ba7d57-503b-4825-b8e5-4498ea9d3536</guid>
+    </item>
+    <item>
+      <title>Varie</title>
+      <link>http://www.rambass.com/rambass/Foto/Pages/Varie.html</link>
+      <guid isPermaLink="false">8ffbb40a-e661-4645-b8ae-6c3320d39962</guid>
+    </item>
+  </channel>
+</rss>
