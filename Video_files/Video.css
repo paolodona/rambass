@@ -1,57 +1,16 @@
-.Body {
-    color: #000000;
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 17px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+.style_SkipStroke_2 {
+    background: transparent;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStrokeSkipFillSkipOpacity_1 {
-}
-.Normal {
-    padding: 4px;
 }
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_467_399 {
-    position: relative;
-}
-.Normal_External_467_399 {
-    position: relative;
+.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
-.style {
-    padding: 4px;
-}
-.graphic_generic_body_textbox_style_default_SkipStroke {
+.style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
