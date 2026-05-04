@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foto — Ramba S.S. | Galleria del gruppo Happy Metal</title>
+  <meta name="description" content="Galleria fotografica completa dei Ramba S.S. — concerti, servizi fotografici, viaggi e demenza dal 1999 ad oggi. Presto le foto del concerto del ventennale." />
+  <link rel="canonical" href="https://rambass.com/gallery.html" />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#0a0807" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Foto — Ramba S.S." />
+  <meta property="og:description" content="Galleria fotografica completa dei Ramba S.S." />
+  <meta property="og:url" content="https://rambass.com/gallery.html" />
+  <meta property="og:image" content="https://rambass.com/assets/img/hero.jpg" />
+  <meta property="og:locale" content="it_IT" />
+
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Rye&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <header class="nav" role="banner">
+    <a class="nav__brand" href="/" aria-label="Ramba S.S. — Home">RAMBA <span>S.S.</span></a>
+    <button class="nav__toggle" aria-label="Apri menu" aria-expanded="false" aria-controls="primary-nav">☰</button>
+    <ul class="nav__links" id="primary-nav">
+      <li><a href="index.html#musica">Musica</a></li>
+      <li><a href="gallery.html">Foto</a></li>
+      <li><a href="index.html#band">Band</a></li>
+      <li><a href="storia.html">Storia</a></li>
+      <li><a href="index.html#video">Video</a></li>
+      <li><a href="index.html#contatti">Contatti</a></li>
+    </ul>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <h1>Galleria foto</h1>
+      <p>Concerti, servizi fotografici, viaggi e demenza assortita. Presto le foto del <strong>concerto del ventennale</strong>.</p>
+    </section>
+
+    <section class="section" aria-label="Filtri">
+      <div class="section__inner">
+        <div class="gallery-events" role="tablist"></div>
+        <div class="gallery-grid" data-gallery></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 1999–<span id="y"></span> Ramba S.S. — Happy Metal forever.</p>
+    <p class="joke">Forti gli halem!</p>
+  </footer>
+
+  <div class="lightbox" role="dialog" aria-modal="true" aria-label="Galleria foto">
+    <button class="lightbox__close" aria-label="Chiudi">✕</button>
+    <button class="lightbox__prev" aria-label="Precedente">‹</button>
+    <button class="lightbox__next" aria-label="Successiva">›</button>
+    <img alt="" />
+    <span class="lightbox__counter"></span>
+  </div>
+
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+  <script src="assets/js/gallery-data.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

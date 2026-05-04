@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rambass.com/sitemap.xml

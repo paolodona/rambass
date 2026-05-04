@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#0a0807"/>
+  <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle"
+    font-family="Impact, 'Bebas Neue', sans-serif" font-size="34"
+    fill="#f4ece4" letter-spacing="0">R</text>
+  <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle"
+    font-family="Impact, 'Bebas Neue', sans-serif" font-size="14"
+    fill="#e63946" letter-spacing="2">SS</text>
+</svg>
