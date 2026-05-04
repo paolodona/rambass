@@ -214,9 +214,8 @@ p { margin: 0 0 1em; }
   text-shadow: 0 6px 30px rgba(0, 0, 0, 0.7);
 }
 .hero__title .ss {
-  color: var(--primary);
+  color: var(--text);
   display: inline-block;
-  transform: skewX(-6deg);
 }
 .hero__tag {
   margin-top: 1.2rem;
@@ -410,6 +409,12 @@ p { margin: 0 0 1em; }
   text-transform: uppercase;
 }
 .album__cta:hover { color: var(--primary); }
+.album__ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  align-self: flex-start;
+}
 
 /* ---------- Members ---------- */
 
