@@ -619,6 +619,59 @@ p { margin: 0 0 1em; }
 }
 .video iframe { width: 100%; height: 100%; border: 0; display: block; }
 
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+}
+.video-item {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: transform .25s, border-color .25s, box-shadow .25s;
+  display: flex;
+  flex-direction: column;
+}
+.video-item:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary);
+  box-shadow: var(--shadow);
+}
+.video-item__embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+.video-item__embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+.video-item__meta {
+  padding: 16px 18px 18px;
+}
+.video-item__title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  letter-spacing: 0.03em;
+  margin: 0 0 6px;
+  text-transform: uppercase;
+  color: var(--text);
+  line-height: 1.2;
+}
+.video-item__date {
+  font-family: var(--font-grunge);
+  color: var(--gold);
+  font-size: 0.78rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
 .video-card {
   position: relative;
   aspect-ratio: 16 / 9;
